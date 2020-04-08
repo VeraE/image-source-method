@@ -1,5 +1,5 @@
 # Implementation of the image source method
-This repository contains the implementation of the image source method [AB79,BEW18] as used in the PhD thesis "Wave Field Synthesis in a listening room" by Vera Erbes. You can use the script ```Test_calculate_ISM.m``` to try it out.
+This repository contains the implementation of the image source method according to [AB79, BEW18, BM09] as used in the PhD thesis "Wave Field Synthesis in a listening room" by Vera Erbes. You can use the script ```Test_calculate_ISM.m``` to try it out.
 
 ## Software requirements
 * **Matlab**:\
@@ -18,3 +18,5 @@ This Material is distributed in the hope that it will be useful, but WITHOUT ANY
 [AB79] J. B. Allen and D. A. Berkley (1979): Image source method for efficiently simulating small-room acoustics. J. Acoust. Soc. Am. 65(4):943-950
          
 [BEW18] F. Brinkmann, V. Erbes and S. Weinzierl (2018): Extending the closed form image source model for source directivity. Proc. of the 44th German Annual Conf. on Acoustics (DAGA)
+
+[BM09] C. Borß and R. Martin (2009): An Improved Parametric Model for Perception-Based Design of Virtual Acoustics. Proc. of the 35th Int. Audio Eng. Soc. Conf.
